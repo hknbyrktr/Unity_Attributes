@@ -1,0 +1,5 @@
+[Header("")]  : Bu özellik, Unity Inspector' de değişkenleri kategorize etmek için, gruplandırmak için kullanılır.
+
+[Tooltip("")] : Bu özellik, Unity Editor'de kullanıcının belirli bir değişken veya alan üzerine geldiğinde açıklama göstermek için kullanılır. Yalnızca değişkenler ve numaralandırma elemanları(enum) için kullanılabilir. Unity Inspector'da gösterileceği için, Tooltip doğrudan sınıflar veya yöntemler üzerinde uygulanamaz. Sadece public veya [SerializeField] ile işaretlenmiş değişkenlerde görünüyor.
+
+///<Summary>  : Bu özellik, kodda XML bağlantıları içinde bir yöntem, sınıf veya değişken hakkında açıklama vermek için kullanılır.Bu açıklamalar, kodun daha okunaklı ve belgelenmiş olmasını sağlar. Özellikle büyük projelerde veya başkaları tarafından okunacak kodlarda, geliştiricilerin kodunun daha iyi anlaşılmasına yardımcı olur.
