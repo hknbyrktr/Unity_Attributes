@@ -6,7 +6,7 @@ public class UnityAttributes : MonoBehaviour
 {
 
 
-    [Header("Isimler")]                                            // Degiskenleri kategorize etmek icin.
+    [Header("Isimler")]                                              // Degiskenleri kategorize etmek icin.
     public string osman;
     public string gültekin;
 
