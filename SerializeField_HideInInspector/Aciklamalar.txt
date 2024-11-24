@@ -1,3 +1,5 @@
-[SerializeField] : Bu attribute, bir değişkenin Inspector penceresinde görünmesini ve düzenlenebilir olmasını sağlar, private olarak tanımlanmış olsa bile. Normalde, sadece public değişkenler Inspector'da görünür. Ancak bir değişken private olup SerializeField ile işaretlenirse, gizliliği korunurken Inspector'da görüntülenebilir ve düzenlenebilir hale gelir.
+[SerializeField] : Bu attribute, bir değişkenin Inspector penceresinde görünmesini ve düzenlenebilir olmasını sağlar, private olarak tanımlanmış olsa bile.
+Normalde, sadece public değişkenler Inspector'da görünür. Ancak bir değişken private olup SerializeField ile işaretlenirse, gizliliği korunurken Inspector'da görüntülenebilir ve düzenlenebilir hale gelir.
 
-[HideInInspector] : Bu attribute, bir scriptte tanımlanan bir değişkenin Inspector penceresinde görünmemesini sağlar. Bu, değişkenin değerinin hala script içinde kullanılabilir olmasına rağmen, Unity'nin görsel arayüzünde düzenlenmesini engeller.
+[HideInInspector] : Bu attribute, bir scriptte tanımlanan bir değişkenin Inspector penceresinde görünmemesini sağlar. Bu, değişkenin değerinin hala script 
+içinde kullanılabilir olmasına rağmen, Unity'nin görsel arayüzünde düzenlenmesini engeller.
