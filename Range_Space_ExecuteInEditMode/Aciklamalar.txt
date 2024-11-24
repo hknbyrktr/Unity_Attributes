@@ -7,5 +7,6 @@ düzenlenmesini ve okunmasını kolaylaştırır. [Space], yalnızca görsellik 
 
 [ExecuteInEditMode] : Bu attribute, bir scriptin yalnızca oyun çalışırken değil, Editör Modu sırasında da çalışmasını sağlar. Normalde, bir script içindeki Update,
 Start gibi metotlar yalnızca oyun çalıştırıldığında tetiklenir. Ancak bu attribute kullanıldığında, script Unity Editörü içindeyken de çalışır.
-
-
+.
+.
+.
