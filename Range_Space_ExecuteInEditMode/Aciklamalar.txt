@@ -1,5 +1,8 @@
-[Range(min,max)] : Bu attribute, bir scriptteki float veya int türündeki değişkenler için Inspector penceresinde bir kaydırma çubuğu (slider) oluşturur. Bu, değişkenin alabileceği minimum ve maksimum değerleri sınırlandırarak daha kolay ve kontrollü bir düzenleme sağlar.
+[Range(min,max)] : Bu attribute, bir scriptteki float veya int türündeki değişkenler için Inspector penceresinde bir kaydırma çubuğu (slider) oluşturur. Bu,
+değişkenin alabileceği minimum ve maksimum değerleri sınırlandırarak daha kolay ve kontrollü bir düzenleme sağlar.
 
-[Space(x)] : Bu attribute, bir scriptin Inspector görünümünde, alanlar arasında görsel bir boşluk (mesafe) bırakmak için kullanılır. Bu, Inspector'daki değişkenlerin düzenlenmesini ve okunmasını kolaylaştırır. [Space], yalnızca görsellik için kullanılır; değişkenlerin işlevselliğini etkilemez.
+[Space(x)] : Bu attribute, bir scriptin Inspector görünümünde, alanlar arasında görsel bir boşluk (mesafe) bırakmak için kullanılır. Bu, Inspector'daki değişkenlerin
+düzenlenmesini ve okunmasını kolaylaştırır. [Space], yalnızca görsellik için kullanılır; değişkenlerin işlevselliğini etkilemez.
 
-[ExecuteInEditMode] : Bu attribute, bir scriptin yalnızca oyun çalışırken değil, Editör Modu sırasında da çalışmasını sağlar. Normalde, bir script içindeki Update, Start gibi metotlar yalnızca oyun çalıştırıldığında tetiklenir. Ancak bu attribute kullanıldığında, script Unity Editörü içindeyken de çalışır.
+[ExecuteInEditMode] : Bu attribute, bir scriptin yalnızca oyun çalışırken değil, Editör Modu sırasında da çalışmasını sağlar. Normalde, bir script içindeki Update,
+Start gibi metotlar yalnızca oyun çalıştırıldığında tetiklenir. Ancak bu attribute kullanıldığında, script Unity Editörü içindeyken de çalışır.
