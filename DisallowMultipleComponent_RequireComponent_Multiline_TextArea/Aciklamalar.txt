@@ -1,0 +1,7 @@
+[RequireComponent(typeof(Component))] : Bu attribute, script' in ekli olduğu GameObject' e belirtilen bileşeni (component) yoksa otomatik olarak ekler. ! Bu scripte bağlı olan bileşeni silmeye çalıştığınızda hata alırsınız !
+
+[DisallowMultipleComponent] : Bu attribute, bir GameObject üzerine aynı türden birden fazla bileşen eklenmesini engeller.
+
+[Multiline] : Bu attribute, inspector' da birden fazla satır içeren bir metin kutusu oluşturur. 
+
+[TextArea] : Bu attribute, daha geniş ve birden fazla satır içeren bir metin kutusu sağlar.
