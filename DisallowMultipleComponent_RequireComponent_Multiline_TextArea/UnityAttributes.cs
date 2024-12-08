@@ -3,7 +3,6 @@ using UnityEngine;
 
 [DisallowMultipleComponent]
 [RequireComponent(typeof(Canvas))]
-
 public class UnityAttributes : MonoBehaviour
 {
 
