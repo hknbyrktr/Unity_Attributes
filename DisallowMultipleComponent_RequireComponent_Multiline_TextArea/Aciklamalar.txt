@@ -1,4 +1,5 @@
-[RequireComponent(typeof(Component))] : Bu attribute, script' in ekli olduğu GameObject' e belirtilen bileşeni (component) yoksa otomatik olarak ekler. ! Bu scripte bağlı olan bileşeni silmeye çalıştığınızda hata alırsınız !
+[RequireComponent(typeof(Component))] : Bu attribute, script' in ekli olduğu GameObject' e belirtilen bileşeni (component) yoksa otomatik olarak ekler. 
+! Bu scripte bağlı olan bileşeni silmeye çalıştığınızda hata alırsınız !
 
 [DisallowMultipleComponent] : Bu attribute, bir GameObject üzerine aynı türden birden fazla bileşen eklenmesini engeller.
 
